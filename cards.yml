@@ -1,5 +1,5 @@
 build:
-  version: "32.0"
+  version: "33.0"
 
 cards:
   message: "Welcome to cards Application of Eazybank"
