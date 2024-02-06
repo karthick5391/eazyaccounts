@@ -2,7 +2,7 @@ build:
   version: "32.0"
 
 cards:
-  message: "Welcome to cards Application of Eazybank"
+  message: "Welcome to cards Application of Eazybank prod"
   contactDetails:
     name: "John Doe- Developer"
     email: "john@eazybank.com"
